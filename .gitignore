@@ -1,1 +1,5 @@
 node_modules
+
+# winston logger
+all.log
+error.log
